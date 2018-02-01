@@ -47,6 +47,3 @@ script:
   - /usr/bin/gradle run
   # GatorGrader
   - ./gatorgrader.sh --check
-  # Markdown
-  - mdl README.md
-  - proselint README.md

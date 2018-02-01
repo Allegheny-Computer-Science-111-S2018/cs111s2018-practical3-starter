@@ -164,8 +164,8 @@ if [ "$CHECK" = true ]; then
   determine_exit_code $?
 
   # --> GatorGrader CHECK: running the program produces the correct output
-  #python3 gatorgrader/gatorgrader.py --nowelcome --commands "gradle run" --fragments 135.71307 --languages Java
-  #determine_exit_code $?
+  python3 gatorgrader/gatorgrader.py --nowelcome --commands "gradle run" --fragments 135.71307 --languages Java
+  determine_exit_code $?
   echo ""
   printf "%s\n" "${blu}... Finished checking with GatorGrader${end}"
 
