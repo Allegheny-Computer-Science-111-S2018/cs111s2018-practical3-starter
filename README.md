@@ -1,34 +1,13 @@
-<!---
-
-PROFESSOR TASK LIST:
-
-  * Use cp -r to copy all of the files and directories in this repository
-    to the starter repository for this assignment
-  * Change into the directory for the starter repository
-  * Update the header (e.g., #) to only give the name of the assignment
-  * Update the first paragraph to include the commented-out content
-  * Change the link in the # Problems section to point to this lab's starter
-  * Create the assignment in the GitHub Classroom, noting the URL
-  * Test the assignment by accepting it with your own GitHub account
-  * Check to ensure that your GitHub repository is created correctly
-  * Share the assignment link with all of the students using email or Slack
-
-PROFESSOR PROBLEMS?
-
-  * Contact Gregory M. Kapfhammer by email or Slack
-  * Raise an issue in the GitHub repository for this assignment starter
-
--->
 
 # cs111s2018-practical3
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
-repository contains the solution for Practical 3 in Computer Science 111.
-<!--Since the Travis builds for this repository will initially fail (as evidenced
+repository contains Practical 3 assignment in Computer Science 111 at Allegheny College.
+Since the Travis builds for this repository will initially fail (as evidenced
 by a red &#x2717; appearing in the commit logs instead of a green &#x2714;),
 the programmer is responsible for completing all of the steps needed to satisfy
 the requirements for the assignment, thus causing a &#x2714; to instead appear
-in the commit logs.-->
+in the commit logs.
 
 ## Introduction
 
